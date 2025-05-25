@@ -1,5 +1,5 @@
 
-# 👋 Hi there! I'm Ying Zhang, or you can call me August.  
+# 👋 Hi there! I'm Ying Zhang, or you can call me August
 
 ## 💡 About Me
 
@@ -15,6 +15,18 @@ In addition to programming, I love teaching languages, caring for children, and 
 - **Frameworks & Tools:** Node.js, React, Express, Git, GitHub, VS Code  , .NET
 - **Databases:** MySQL, MongoDB  
 - **Other Skills:** Data analysis, Translation (English ↔ Mandarin), Online teaching, Childcare, Music instruction
+
+---
+
+## 🌟 Featured Projects
+
+### 🔗 [develop APIs and test with Swagger](https://github.com/yingzhang0897/cse341-project1)
+> Document APIs with an intuitive tool - Swagger
+### 🔗 [My dad's furniture store website](https://yingzhang0897.github.io/wdd131/project/contact-us.html)
+> A front-end website for my dad's furniture store
+
+### 🔗 [My kindergarten website video](https://www.loom.com/share/d627d4bc72794225b910b86eb04060c6?sid=556f2888-7ffc-4912-ae35-495f250ad51b)
+> A front-end kindergarten website for my future goal
 
 ---
 
